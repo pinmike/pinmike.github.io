@@ -1,2 +1,4 @@
 # pinmike.github.io
-Pages repo
+Pinmike's Github Pages repository.
+
+Built using Jekyll.
