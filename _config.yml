@@ -1,7 +1,7 @@
 # Site settings
-title: Pinmike's pages @ github.pinmike.io
-email: mike.pinnell@gmail.com
-description: Pinmike's pages @ github.pinmike.io.
+title: Pinmike's Github pages
+email: mike@pinmike.io
+description: Pinmike's Github pages
 baseurl: 
 url: http://github.pinmike.io
 
