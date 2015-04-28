@@ -1,0 +1,13 @@
+# Site settings
+title: Pinmike's pages @ github.pinmike.io
+email: mike.pinnell@gmail.com
+description: Pinmike's pages @ github.pinmike.io.
+baseurl: /pinmike.github.io
+url: http://github.pinmike.io
+twitter_username: mikepinnell
+github_username:  pinmike
+
+# Build settings
+name: github.pinmike.io
+markdown: redcarpet
+pygments: true
