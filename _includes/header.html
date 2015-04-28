@@ -49,7 +49,16 @@
             <div class="intro-text">
                 <div class="intro-lead-in">Welcome to </div>
                 <div class="intro-heading">github.pinmike.io</div>
-                <a href="https://github.com/pinmike" target="_blank" class="page-scroll btn btn-xl">Go to my Github</a>
+                <!--<a href="https://github.com/pinmike" target="_blank" class="page-scroll btn btn-xl">Go to my Github</a>-->
+                <div class="container">
+                    <ul class="list-inline social-buttons">
+                        {% for network in site.social %}
+                        <li><a href="{{ network.url }}" target="_blank"><i class="fa fa-{{ network.title }}"></i></a>
+                        </li>
+                        {% endfor %}
+                    </ul>
+                </div>
+
             </div>
         </div>
     </header>
