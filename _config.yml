@@ -14,9 +14,9 @@ color:
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Mike Pinnell
   pic: 1
-  position: Lead Designer
+  position: Head of Development
   social:
     - title: twitter
       url: #
@@ -25,35 +25,13 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
-
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
-
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: linkedin
     url: http://linkedin.com/in/mikepinnell
   - title: github
     url: http://github.com/pinmike
-  - title: stackoverflow 
+  - title: stack-overflow 
     url: http://stackoverflow.com/users/2685271/mike-pinnell
   - title: twitter
     url: http://twitter.com/mikepinnell
