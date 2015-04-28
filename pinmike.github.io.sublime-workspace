@@ -1,0 +1,145 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/mike/Dev/pinmike.github.io/css/main.scss",
+		"/C/Users/mike/Dev/pinmike.github.io/_sass/_base.scss",
+		"/C/Users/mike/Dev/pinmike.github.io/_includes/footer.html",
+		"/C/Users/mike/Desktop/combined.404one2one.log",
+		"/G/autorun.inf",
+		"/I/Autorun.inf",
+		"/C/Program Files (x86)/Steam/steamapps/common/Grand Theft Auto IV/GTAIV/common/data/vehicles.ide",
+		"/C/Program Files (x86)/Steam/steamapps/common/Grand Theft Auto IV/GTAIV/common/data/handling.dat",
+		"/C/Program Files (x86)/Steam/steamapps/common/Grand Theft Auto IV/GTAIV/common/data/carcols.dat",
+		"/C/Program Files (x86)/Steam/steamapps/common/Grand Theft Auto IV/GTAIV/common/data/VehicleExtras.dat",
+		"/C/Program Files (x86)/Steam/steamapps/common/Grand Theft Auto IV/GTAIV/common/data/carmods.dat",
+		"/C/Users/mike/Downloads/GTA Mods/Various File Backups/carmods.dat"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"404"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
